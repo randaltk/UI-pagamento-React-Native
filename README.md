@@ -2,8 +2,7 @@
 
 > Projeto UI com React Native, Expo, Styled Components e React Navigation v5! 
 
-![GitHub Logo](C:\Users\Randal Krebs\Rnative\picpay\assets\gitss)
-Format: ![Alt Text](C:\Users\Randal Krebs\Rnative\picpay\assets\gitss)
+
 
 <a href="https://github.com/omariosouto/flappy-bird-devsoutinho/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/omariosouto/flappy-bird-devsoutinho?label=Randal%20TK"></a>
 
