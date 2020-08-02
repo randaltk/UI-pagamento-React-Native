@@ -3,6 +3,8 @@
 > Projeto UI com React Native, Expo, Styled Components e React Navigation v5! 
 
 <img src="https://github.com/randaltk/UI-pagamento-React-Native/blob/master/pag01.jpg" width="20%" height="20%">
+<img src="https://github.com/randaltk/UI-pagamento-React-Native/blob/master/pag02.jpg" width="20%" height="20%">
+<img src="https://github.com/randaltk/UI-pagamento-React-Native/blob/master/pag03.jpg" width="20%" height="20%">
 
 
 <a href="https://github.com/omariosouto/flappy-bird-devsoutinho/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/omariosouto/flappy-bird-devsoutinho?label=Randal%20TK"></a>
