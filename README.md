@@ -9,7 +9,7 @@
 
 <a href="https://github.com/omariosouto/flappy-bird-devsoutinho/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/omariosouto/flappy-bird-devsoutinho?label=Randal%20TK"></a>
 
-## Techs
+## :hammer:  Techs
 
 - [x] React.js
 - [x] Styled Components
@@ -18,9 +18,13 @@
 
 ## Usage
 
-1. Run `npm install` or `yarn install`.<br />
-2. Run `yarn start` and access `http://localhost:3000`.<br />
+```bash
+# Clone este repositório
+$ git clone git@github.com:randaltk/UI-pagamento-React-Native
 
+# Depois disso, entre na pasta web e execute o comando:
+$ yarn start
+```
 ## Contributing
 
 1. Faça o _fork_ do projeto (<https://github.com/yourname/yourproject/fork>)
