@@ -22,7 +22,7 @@
 # Clone este repositório
 $ git clone git@github.com:randaltk/UI-pagamento-React-Native
 
-# Depois disso, entre na pasta web e execute o comando:
+# Depois disso, entre na pasta e execute o comando:
 $ yarn start
 ```
 ## Contributing
